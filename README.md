@@ -14,7 +14,7 @@ This app is expecially useful when a speed of response is concerned. For example
 ## Installing
 If you are running a Windows base operating system, download the release at https://github.com/dph1976/APDUSpeedometer/releases/, extract the zip file and launch the executable file inside. The software should work straight away.
 
-In case that the software can't be launch, check that lastest .Net Framework is installed on your PC. (.NET 4.5)
+In case that the software can't be launch, check that lastest .Net Framework is installed on your PC. (.NET desktop 8.0)
 
 This software only support Windows operating system, doesn't support Android, macOS or Linux.
 
