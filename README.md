@@ -9,7 +9,9 @@ This app can do following things:
 - Send a single APDU command to the card and measure the response time
 - Send a batch of APDU commands to the card and measure the response time for each APDU in the batch.
 
-This app is expecially useful when a speed of response is concerned. For example in 5G networks, SUCI calculation of 5G SA SIMcard can afftect the network qualiity if it takes too long to response (e.g. not in miliseconds). The connection or the calls can be dropped at the edge of 5G network because handset can swing from 5G to 4G back to 5G network frequently and thus need SUCI response fast enough to maintain the connection.
+This app is expecially useful when a speed of response is concerned. For example in 5G networks, SUCI calculation of 5G SA SIMcard can afftect the network qualiity if it takes too long to response (e.g. not in miliseconds). The data connection or the voice calls can be dropped at the edge of 5G network where handset can swing back and ford from 5G to 4G networks frequently and thus need SUCI multiple times. If the SUCI calculation speed is not fast enough, the connection may not be stable or not maintained.
+
+If you need to have the APDUs to calculate the SUCI speed, please contact the Author.
 
 ## Installing
 If you are running a Windows base operating system, download the release at https://github.com/dph1976/APDUSpeedometer/releases/, extract the zip file and launch the executable file inside. The software should work straight away.
