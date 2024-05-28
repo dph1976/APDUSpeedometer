@@ -1,0 +1,17 @@
+D:\DOCS\My Apps\APDUSpeedometer\APDUSender\bin\Release\APDUSpeedometer.exe.config
+D:\DOCS\My Apps\APDUSpeedometer\APDUSender\bin\Release\APDUSpeedometer.exe
+D:\DOCS\My Apps\APDUSpeedometer\APDUSender\bin\Release\APDUSpeedometer.pdb
+D:\DOCS\My Apps\APDUSpeedometer\APDUSender\bin\Release\APDUSpeedometer.xml
+D:\DOCS\My Apps\APDUSpeedometer\APDUSender\bin\Release\PCSC.dll
+D:\DOCS\My Apps\APDUSpeedometer\APDUSender\bin\Release\PCSC.Iso7816.dll
+D:\DOCS\My Apps\APDUSpeedometer\APDUSender\bin\Release\PCSC.xml
+D:\DOCS\My Apps\APDUSpeedometer\APDUSender\bin\Release\PCSC.Iso7816.xml
+D:\DOCS\My Apps\APDUSpeedometer\APDUSender\obj\Release\APDU Speedometer.vbproj.AssemblyReference.cache
+D:\DOCS\My Apps\APDUSpeedometer\APDUSender\obj\Release\APDUSpeedometer.frmAPDUSpeedometer.resources
+D:\DOCS\My Apps\APDUSpeedometer\APDUSender\obj\Release\APDUSpeedometer.Resources.resources
+D:\DOCS\My Apps\APDUSpeedometer\APDUSender\obj\Release\APDU Speedometer.vbproj.GenerateResource.cache
+D:\DOCS\My Apps\APDUSpeedometer\APDUSender\obj\Release\APDU Speedometer.vbproj.CoreCompileInputs.cache
+D:\DOCS\My Apps\APDUSpeedometer\APDUSender\obj\Release\APDU Spe.26EF8EFE.Up2Date
+D:\DOCS\My Apps\APDUSpeedometer\APDUSender\obj\Release\APDUSpeedometer.exe
+D:\DOCS\My Apps\APDUSpeedometer\APDUSender\obj\Release\APDUSpeedometer.xml
+D:\DOCS\My Apps\APDUSpeedometer\APDUSender\obj\Release\APDUSpeedometer.pdb
