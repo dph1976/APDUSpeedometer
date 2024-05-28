@@ -32,7 +32,7 @@ The program is tested with OMNI-Key Card 3x21 (contact reader).
 According to the PC/SC Library, this software support all of PC/SC compatible reader.
 
 ## Authors
-Code/project developed by Huyen Doan (dph1976@gmail.com)
+Code/project developed by Huyen Doan (https://github.com/dph1976)
 PC/SC wrapper classes for .NET developed by Daniel Mueller, see https://github.com/danm-de/pcsc-sharp/.
 
 ## License
